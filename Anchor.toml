@@ -11,7 +11,7 @@ solana_twitter = "arWxQQfQKzs1qnSb63P1n9DHFeYxT1HNsfPHkSCF1r2"
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/magma/.config/solana/id.json"
 
 [scripts]
